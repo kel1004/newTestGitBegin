@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class GitFileTest2 {
     public static void main(String[] args){
-        int[] array = new int[5];
+        int[] array = new int[10];//Changed the array size to 10
         Scanner input = new Scanner(System.in);
         System.out.println("Determines the highest and lowest of 5 input values.");
         for(int i = 0; i < array.length; i++){
