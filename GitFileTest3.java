@@ -7,7 +7,7 @@ public class GitFileTest3{
 
         System.out.println("Checks if Leap Year");
         System.out.print("Enter Year: ");
-        year = input.nextInt();
+        year = input.nextInt();//Hello just checking
 
         if(year % 400 == 0)
             System.out.println(year +" is a leap year");
