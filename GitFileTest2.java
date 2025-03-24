@@ -7,6 +7,7 @@ public class GitFileTest2 {
         for(int i = 0; i < array.length; i++){
             System.out.print("Enter value of input " + (i + 1) + ": ");
             array[i] = input.nextInt();
+
         }//Testing!!
         
         int lowest = array[0];
