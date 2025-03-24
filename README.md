@@ -1,3 +1,7 @@
+## CONTRIBUTORS
+### kel1004 (Owner) - Axel C. Magallanes
+### RedD117 (Collaborator) - Chryz Johnred C. Dumalagan
+
 # GitBeginnerTest
 
 ## A simple project about the basic command applications of the GIT Command Line Interface on Java files
@@ -36,4 +40,3 @@ Using the git commands and git CLI or any other git tools available, you can pus
 depending on your purpose. Please be informed that to you use it for your own use, clone it first. 
 
 
-  
