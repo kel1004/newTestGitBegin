@@ -1,6 +1,6 @@
 ## CONTRIBUTORS
-### kel1004 (Owner) - Axel C. Magallanes
-### RedD117 (Collaborator) - Chryz Johnred C. Dumalagan
+### * kel1004 (Owner) - Axel C. Magallanes
+### * RedD117 (Collaborator) - Chryz Johnred C. Dumalagan
 
 # GitBeginnerTest
 
